@@ -1,0 +1,14 @@
+Date,Round,Venue,Result,GF,GA,Opponent,xG,xGA,Poss
+2020-03-04,Group stage,Away,W,2,0,ar Tigre,1.2,0.8,58
+2020-03-10,Group stage,Home,W,3,1,py Guaraní,2.7,0.8,66
+2020-09-16,Group stage,Away,W,2,1,bo Bolívar,1.7,1.1,36
+2020-09-23,Group stage,Away,D,0,0,py Guaraní,0.4,0.9,57
+2020-09-30,Group stage,Home,W,5,0,bo Bolívar,2.2,0.8,57
+2020-10-21,Group stage,Home,W,5,0,ar Tigre,3.7,1.1,58
+2020-11-25,Round of 16,Away,W,3,1,ec Delfín,2.5,0.4,54
+2020-12-02,Round of 16,Home,W,5,0,ec Delfín,2.8,0.6,63
+2020-12-08,Quarter-finals,Away,D,1,1,py Libertad,0.5,1.7,62
+2020-12-15,Quarter-finals,Home,W,3,0,py Libertad,3.6,0.9,60
+2021-01-05,Semi-finals,Away,W,3,0,ar River Plate,1.8,1.9,30
+2021-01-12,Semi-finals,Home,L,0,2,ar River Plate,0.3,2,35
+2021-01-30,Final,Home,W,1,0,br Santos,0.4,0.5,42
