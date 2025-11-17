@@ -1,0 +1,151 @@
+Date,Round,Venue,Result,GF,GA,Opponent,Poss,xG,xGA
+2015-02-19,Second stage,Away,L,0,2,bo San José,,,
+2015-03-05,Second stage,Home,D,1,1,mx UANL,,,
+2015-03-12,Second stage,Away,D,1,1,pe Juan Aurich,,,
+2015-03-19,Second stage,Home,D,1,1,pe Juan Aurich,,,
+2015-04-08,Second stage,Away,D,2,2,mx UANL,,,
+2015-04-15,Second stage,Home,W,3,0,bo San José,,,
+2015-05-07,Round of 16,Home,W,1,0,ar Boca Juniors,,,
+2015-05-14,Round of 16,Away,W,3,0,ar Boca Juniors,,,
+2015-05-21,Quarter-finals,Home,L,0,1,br Cruzeiro,,,
+2015-05-27,Quarter-finals,Away,W,3,0,br Cruzeiro,,,
+2015-07-14,Semi-finals,Home,W,2,0,py Guaraní,,,
+2015-07-21,Semi-finals,Away,D,1,1,py Guaraní,,,
+2015-07-29,Finals,Away,D,0,0,mx UANL,,,
+2015-08-05,Finals,Home,W,3,0,mx UANL,,,
+2016-02-23,Second stage,Away,W,2,0,ar Huracán,,,
+2016-03-01,Second stage,Home,W,3,0,pe Sporting Cristal,,,
+2016-03-08,Second stage,Home,W,2,0,uy Peñarol,,,
+2016-03-15,Second stage,Away,W,4,0,uy Peñarol,,,
+2016-04-12,Second stage,Away,W,1,0,pe Sporting Cristal,,,
+2016-04-19,Second stage,Home,D,0,0,ar Huracán,,,
+2016-04-26,Round of 16,Away,D,0,0,ar Huracán,,,
+2016-05-03,Round of 16,Home,W,4,2,ar Huracán,,,
+2016-05-12,Quarter-finals,Away,L,0,1,ar Rosario Central,,,
+2016-05-19,Quarter-finals,Home,W,3,1,ar Rosario Central,,,
+2016-07-06,Semi-finals,Away,W,2,0,br São Paulo,,,
+2016-07-13,Semi-finals,Home,W,2,1,br São Paulo,,,
+2016-07-20,Finals,Away,D,1,1,ec Independiente,,,
+2016-07-27,Finals,Home,W,1,0,ec Independiente,,,
+2017-03-09,Group stage,Away,W,2,0,ve Zamora,56,,
+2017-04-11,Group stage,Home,W,3,2,cl Iquique,54,,
+2017-04-20,Group stage,Away,D,1,1,py Guaraní,42,,
+2017-04-27,Group stage,Home,W,4,1,py Guaraní,48,,
+2017-05-03,Group stage,Away,L,1,2,cl Iquique,50,,
+2017-05-25,Group stage,Home,W,4,0,ve Zamora,61,,
+2017-07-04,Round of 16,Away,W,1,0,ar Godoy Cruz,54,,
+2017-08-09,Round of 16,Home,W,2,1,ar Godoy Cruz,59,,
+2017-09-13,Quarter-finals,Away,D,0,0,br Botafogo (RJ),54,,
+2017-09-20,Quarter-finals,Home,W,1,0,br Botafogo (RJ),52,,
+2017-10-25,Semi-finals,Away,W,3,0,ec Barcelona,47,,
+2017-11-01,Semi-finals,Home,L,0,1,ec Barcelona,48,,
+2017-11-22,Finals,Home,W,1,0,ar Lanús,55,,
+2017-11-29,Finals,Away,W,2,1,ar Lanús,34,,
+2018-02-28,Group stage,Away,D,2,2,br Flamengo,44,,
+2018-04-05,Group stage,Home,D,0,0,co Santa Fe,72,,
+2018-04-19,Group stage,Away,W,1,0,ec CS Emelec,47,,
+2018-04-26,Group stage,Home,W,2,1,ec CS Emelec,62,,
+2018-05-03,Group stage,Away,W,1,0,co Santa Fe,41,,
+2018-05-23,Group stage,Home,D,0,0,br Flamengo,65,,
+2018-08-09,Round of 16,Away,D,0,0,ar Racing Club,37,,
+2018-08-29,Round of 16,Home,W,3,0,ar Racing Club,27,,
+2018-09-19,Quarter-finals,Away,D,0,0,ar Independiente,44,,
+2018-10-02,Quarter-finals,Home,W,3,1,ar Independiente,54,,
+2018-10-23,Semi-finals,Home,L,0,1,br Grêmio,67,,
+2018-10-30,Semi-finals,Away,W,2,1,br Grêmio,67,,
+2018-11-11,Finals,Away,D,2,2,ar Boca Juniors,48,,
+2018-12-09,Finals,Neutral,W,3,1,ar Boca Juniors,67,,
+2019-03-05,Group stage,Away,W,1,0,bo San José,45,1.3,1.2
+2019-03-13,Group stage,Home,W,3,1,ec LDU de Quito,69,2.5,1.7
+2019-04-03,Group stage,Home,L,0,1,uy Peñarol,60,0.5,1.2
+2019-04-11,Group stage,Home,W,6,1,bo San José,67,5.7,0.9
+2019-04-25,Group stage,Away,L,1,2,ec LDU de Quito,48,0.5,2
+2019-05-08,Group stage,Away,D,0,0,uy Peñarol,50,1.5,0.8
+2019-07-24,Round of 16,Away,L,0,2,ec CS Emelec,69,0.8,0.3
+2019-07-31,Round of 16,Home,W,2,0,ec CS Emelec,67,2.7,0.5
+2019-08-21,Quarter-finals,Home,W,2,0,br Internacional,65,1.4,0.6
+2019-08-28,Quarter-finals,Away,D,1,1,br Internacional,45,1.5,0.5
+2019-10-02,Semi-finals,Away,D,1,1,br Grêmio,58,1.3,1.2
+2019-10-23,Semi-finals,Home,W,5,0,br Grêmio,56,3,0.9
+2019-11-23,Final,Neutral,W,2,1,ar River Plate,60,2.2,0.5
+2020-03-04,Group stage,Away,W,2,0,ar Tigre,58,1.2,0.8
+2020-03-10,Group stage,Home,W,3,1,py GuaranÃ­,66,2.7,0.8
+2020-09-16,Group stage,Away,W,2,1,bo BolÃ­var,36,1.7,1.1
+2020-09-23,Group stage,Away,D,0,0,py GuaranÃ­,57,0.4,0.9
+2020-09-30,Group stage,Home,W,5,0,bo BolÃ­var,57,2.2,0.8
+2020-10-21,Group stage,Home,W,5,0,ar Tigre,58,3.7,1.1
+2020-11-25,Round of 16,Away,W,3,1,ec DelfÃ­n,54,2.5,0.4
+2020-12-02,Round of 16,Home,W,5,0,ec DelfÃ­n,63,2.8,0.6
+2020-12-08,Quarter-finals,Away,D,1,1,py Libertad,62,0.5,1.7
+2020-12-15,Quarter-finals,Home,W,3,0,py Libertad,60,3.6,0.9
+2021-01-05,Semi-finals,Away,W,3,0,ar River Plate,30,1.8,1.9
+2021-01-12,Semi-finals,Home,L,0,2,ar River Plate,35,0.3,2
+2021-01-30,Final,Home,W,1,0,br Santos,42,0.4,0.5
+2021-04-21,Group stage,Away,W,3,2,pe Universitario,52,2.5,1.4
+2021-04-27,Group stage,Home,W,5,0,ec Independiente,38,2.4,0.8
+2021-05-04,Group stage,Away,W,2,1,ar Defensa y Just,55,1.2,1.5
+2021-05-11,Group stage,Away,W,1,0,ec Independiente,28,1,1
+2021-05-18,Group stage,Home,L,3,4,ar Defensa y Just,54,1.4,1.2
+2021-05-27,Group stage,Home,W,6,0,pe Universitario,56,4.4,0.1
+2021-07-14,Round of 16,Away,W,1,0,cl Univ Católica,41,1,1.5
+2021-07-21,Round of 16,Home,W,1,0,cl Univ Católica,50,2.4,1.3
+2021-08-10,Quarter-finals,Away,D,1,1,br São Paulo,41,1.3,1.6
+2021-08-17,Quarter-finals,Home,W,3,0,br São Paulo,42,1.3,0.7
+2021-09-21,Semi-finals,Home,D,0,0,br Atlético Mineiro,42,0.2,1.3
+2021-09-28,Semi-finals,Away,D,1,1,br Atlético Mineiro,37,1.2,1.7
+2021-11-27,Final,Home,W,2,1,br Flamengo,36,0.7,1.4
+2022-04-05,Group stage,Away,W,2,0,pe Sporting Cristal,48,0.7,1.1
+2022-04-12,Group stage,Home,W,3,1,ar Talleres,56,1.3,0.8
+2022-04-28,Group stage,Away,W,3,2,cl Univ Católica,41,2.9,0.9
+2022-05-04,Group stage,Away,D,2,2,ar Talleres,59,0.5,1
+2022-05-17,Group stage,Home,W,3,0,cl Univ Católica,45,3.8,1.1
+2022-05-24,Group stage,Home,W,2,1,pe Sporting Cristal,58,1.8,0.8
+2022-06-29,Round of 16,Away,W,1,0,co Tolima,48,0.3,1
+2022-07-06,Round of 16,Home,W,7,1,co Tolima,47,4.5,0.6
+2022-08-02,Quarter-finals,Away,W,2,0,br Corinthians,57,0.9,0.5
+2022-08-09,Quarter-finals,Home,W,1,0,br Corinthians,57,2.1,0.5
+2022-08-31,Semi-finals,Away,W,4,0,ar Vélez Sarsfield,58,2.8,0.4
+2022-09-07,Semi-finals,Home,W,2,1,ar Vélez Sarsfield,51,1.4,0.7
+2022-10-29,Final,Neutral,W,1,0,br Ath Paranaense,72,1.4,0.4
+2023-04-05,Group stage,Away,W,3,1,pe Sporting Cristal,56,4,0.4
+2023-04-18,Group stage,Home,W,1,0,bo The Strongest,76,2.1,0
+2023-05-02,Group stage,Home,W,5,1,ar River Plate,55,3.4,0.8
+2023-05-25,Group stage,Away,L,0,1,bo The Strongest,58,0.4,2.1
+2023-06-07,Group stage,Away,L,0,2,ar River Plate,54,0.7,2.2
+2023-06-27,Group stage,Home,D,1,1,pe Sporting Cristal,61,0.6,0.6
+2023-08-01,Round of 16,Away,D,1,1,ar Arg Juniors,53,0.3,0.8
+2023-08-08,Round of 16,Home,W,2,0,ar Arg Juniors,66,1.1,0.1
+2023-08-24,Quarter-finals,Home,W,2,0,py Olimpia,69,1.5,0.1
+2023-08-31,Quarter-finals,Away,W,3,1,py Olimpia,51,1.8,1.2
+2023-09-27,Semi-finals,Home,D,2,2,br Internacional,54,1.3,0.9
+2023-10-04,Semi-finals,Away,W,2,1,br Internacional,65,0.5,1.4
+2023-11-04,Final,Away,W,2,1,ar Boca Juniors,53,0.8,0.5
+2024-02-21,Second qualifying stage,Away,D,1,1,bo Aurora,36,2.1,0.8
+2024-02-28,Second qualifying stage,Home,W,6,0,bo Aurora,51,4.3,0.3
+2024-03-06,Third qualifying stage,Home,W,2,1,br RB Bragantino,46,0.7,0.2
+2024-03-13,Third qualifying stage,Away,D,1,1,br RB Bragantino,38,0.8,1.5
+2024-04-03,Group stage,Home,L,1,3,co Junior,58,0.7,2.5
+2024-04-11,Group stage,Away,L,0,1,ec LDU de Quito,57,0.7,0.8
+2024-04-24,Group stage,Home,W,3,1,pe Universitario,70,2.8,0.2
+2024-05-08,Group stage,Home,W,2,1,ec LDU de Quito,60,2.1,0.9
+2024-05-16,Group stage,Away,W,1,0,pe Universitario,44,0.5,0.6
+2024-05-28,Group stage,Away,D,0,0,co Junior,42,0.5,0.5
+2024-08-14,Round of 16,Home,W,2,1,br Palmeiras,51,1.7,0.3
+2024-08-21,Round of 16,Away,D,2,2,br Palmeiras,35,1.2,2.7
+2024-09-18,Quarter-finals,Home,D,0,0,br São Paulo,62,1.7,0.7
+2024-09-25,Quarter-finals,Away,D,1,1,br São Paulo,41,0.9,2
+2024-10-23,Semi-finals,Home,W,5,0,uy Peñarol,68,2,0.4
+2024-10-30,Semi-finals,Away,L,1,3,uy Peñarol,44,1.7,1.6
+2024-11-30,Final,Neutral,W,3,1,br Atlético Mineiro,21,1.8,1.8
+2025-04-03,Group stage,Away,W,3,2,Sporting Cristal,60,3.4,0.9
+2025-04-09,Group stage,Home,W,1,0,Cerro Porteño,57,3,0.2
+2025-04-24,Group stage,Away,W,3,2,Bolivar,25,2.5,1.5
+2025-05-07,Group stage,Away,W,2,0,Cerro Porteño,54,1.6,0.7
+2025-05-15,Group stage,Home,W,2,0,Bolivar,51,1.4,0.2
+2025-05-28,Group stage,Home,W,6,0,Sporting Cristal,53,2.7,0.2
+2025-08-14,Round of 16,Away,W,4,0,Universitario,52,3,0.7
+2025-08-21,Round of 16,Home,D,0,0,Universitario,65,0.9,0.7
+2025-09-17,Quarter-finals,Away,W,2,1,River Plate,34,0.9,0.6
+2025-09-24,Quarter-finals,Home,W,3,1,River Plate,57,2,0.7
+2025-10-23,Semi-Finals,Away,L,0,3,LDU,42,1.5,2
+2025-10-30,Semi-Finals,Home,W,4,0,LDU,63,3.7,0.4
