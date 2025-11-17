@@ -1,0 +1,78 @@
+============================================================
+RESUMO FLAMENGO 2019:
+============================================================
+⚽ Gols Marcados: **22.0** | xG Esperado: **24.9**
+📈 Overperformance Ofensiva: **-2.9**
+🛡️ Gols Sofridos: **10.0** | xGA Esperado: **12.3**
+📉 Defesa vs xGA: **+2.3** (Positivo = melhor que o esperado)
+ Possession Média: **58.4%**
+============================================================
+
+============================================================
+RESUMO PALMEIRAS 2020:
+============================================================
+⚽ Gols Marcados: **33** | xG Esperado: **23.8**
+📈 Overperformance Ofensiva: **+9.2**
+🛡️ Gols Sofridos: **6** | xGA Esperado: **13.5**
+📉 Defesa vs xGA: **+7.5** (Positivo = melhor que o esperado)
+ Possession Média: **52.2%**
+============================================================
+
+============================================================
+RESUMO PALMEIRAS 2021:
+============================================================
+⚽ Gols Marcados: **29** | xG Esperado: **21.0**
+📈 Overperformance Ofensiva: **+8.0**
+🛡️ Gols Sofridos: **10** | xGA Esperado: **15.5**
+📉 Defesa vs xGA: **+5.5** (Positivo = melhor que o esperado)
+ Possession Média: **44.0%**
+============================================================
+
+============================================================
+RESUMO FLAMENGO 2022:
+============================================================
+⚽ Gols Marcados: **33.0** | xG Esperado: **24.4**
+📈 Overperformance Ofensiva: **+8.6**
+🛡️ Gols Sofridos: **8.0** | xGA Esperado: **9.8**
+📉 Defesa vs xGA: **+1.8** (Positivo = melhor que o esperado)
+ Possession Média: **53.6%**
+============================================================
+
+============================================================
+RESUMO FLUMINENSE 2023:
+============================================================
+⚽ Gols Marcados: **24** | xG Esperado: **18.5**
+📈 Overperformance Ofensiva: **+5.5**
+🛡️ Gols Sofridos: **12** | xGA Esperado: **11.1**
+📉 Defesa vs xGA: **-0.9** (Positivo = melhor que o esperado)
+ Possession Média: **59.3%**
+============================================================
+
+============================================================
+RESUMO BOTAFOGO 2024:
+============================================================
+⚽ Gols Marcados: **30.0** | xG Esperado: **26.2**
+📈 Overperformance Ofensiva: **+3.8**
+🛡️ Gols Sofridos: **16.0** | xGA Esperado: **17.8**
+📉 Defesa vs xGA: **+1.8** (Positivo = melhor que o esperado)
+ Possession Média: **48.5%**
+============================================================
+
+============================================================
+RESUMO FLAMENGO 2025:
+============================================================
+Total de gols marcados: 12
+xG total esperado: 15.4
+Overperformance ofensiva: -3.4
+Posse média: 60.5%
+Defesa vs xGA: +2.1
+============================================================
+
+============================================================
+RESUMO PALEMIRAS 2025:
+============================================================
+Total de gols marcados: 30
+xG total esperado: 26.6
+Overperformance ofensiva: -3.4
+Posse média: 51.1%
+Defesa vs xGA: -0.2
